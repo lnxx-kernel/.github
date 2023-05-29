@@ -16,3 +16,8 @@ click kernel manager
 click custom
 
 type in https://lnxx-kernel.github.io/kernel_build/
+
+# Credits
+
+Founder: @foxxy432
+Contributors: @torvalds
