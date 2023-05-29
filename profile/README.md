@@ -21,4 +21,4 @@ type in https://lnxx-kernel.github.io/kernel_build/
 
 Founder: @foxxy432
 
-Contributors: @torvalds
+Contributors: 
