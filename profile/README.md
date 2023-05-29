@@ -19,6 +19,4 @@ type in https://lnxx-kernel.github.io/kernel_build/
 
 # Credits
 
-Founder: @foxxy432
-
-Contributors: 
+@foxxy432 and the LnXX contributors.
