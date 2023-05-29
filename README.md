@@ -1,1 +1,1 @@
-# .github
+https://lnxx-kernel.github.io
